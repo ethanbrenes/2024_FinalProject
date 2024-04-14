@@ -2,6 +2,7 @@
 
 ### Team Members
     1. Ethan Brenes
+    2. Haiyue Liu
 ### Final Proposal
 Geography 575 Final Project Proposal:
 Group: Ethan Brenes, Haiyue Liu
@@ -32,7 +33,7 @@ Interactive
 
 Wireframe
  
-
+https://docs.google.com/document/d/1GgxBdJTvo7AkN-Hni_Jgb_YoBJAJknz7fjZX2-SxKo8/edit?usp=sharing
   
 
   
